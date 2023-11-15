@@ -10,4 +10,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
- Projetos educativos ensinados em salas de aula 
+ Projetos educativos ensinados e explicados em salas de aula 
