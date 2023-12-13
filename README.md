@@ -10,4 +10,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
- Projetos educativos, feito atravez de pesquisas adiquirindo mais conhecimento de mais propiedades.
+ Projetos educativos, feito atravez de pesquisas adiquirindo mais conhecimento de mais propiedades, tendo mentorias atraves do (SENAI).
